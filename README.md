@@ -1,2 +1,3 @@
 # I-miss-her
-HackEd Hackathon porject
+HackEd Hackathon project
+
